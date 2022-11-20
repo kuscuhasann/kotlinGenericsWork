@@ -10,9 +10,9 @@
     <androidx.fragment.app.FragmentContainerView
         android:id="@+id/fragmentContainerView"
         android:name="androidx.navigation.fragment.NavHostFragment"
-        android:layout_width="0dp"
-        android:layout_height="0dp"
-        android:layout_margin="1dp"
+        android:layout_width="@dimen/city_fragment_0_dp"
+        android:layout_height="@dimen/city_fragment_0_dp"
+        android:layout_margin="@dimen/city_fragment_1_dp"
         app:defaultNavHost="true"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"

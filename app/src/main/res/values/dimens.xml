@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="city_fragment_0_dp">0dp</dimen>
+    <dimen name="city_fragment_1_dp">1dp</dimen>
+</resources>

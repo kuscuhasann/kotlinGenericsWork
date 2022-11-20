@@ -2,4 +2,7 @@
     <string name="app_name">kotlinGenericsWork</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="city_fragment_button_city_name_text">Generic City Name</string>
+    <string name="city_fragment_button_city_code_text">Generic City Code</string>
+    <string name="city_fragment_bursa_city_name">Bursa</string>
 </resources>
